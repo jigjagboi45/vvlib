@@ -1,8 +1,0 @@
-README.md
-setup.py
-vvlib/__init__.py
-vvlib/vvlib_functions.py
-vvlib.egg-info/PKG-INFO
-vvlib.egg-info/SOURCES.txt
-vvlib.egg-info/dependency_links.txt
-vvlib.egg-info/top_level.txt
